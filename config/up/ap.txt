@@ -1,0 +1,59 @@
+;aiu;
+
+[Update]
+Name = AlphaPic超级看图
+ProductVersion = 7.0.0.63
+URL = http://alphapic.web3v.com/update/apvD.htm
+URL1 = https://zhefengz.github.io/config/up/apvD.htm
+Size = 26970856
+MD5 = 552659a1ca23155a372f50c60fcec628
+ServerFileName = alphapic.exe
+RegistryKey = HKUD\Software\赛科先锋\AlphaPic超级看图\Version
+Version = 7.0.0.63
+DescriptionHtml = <b>全新推出AlphaPic超级看图2021（v7.0.0.63）</b>
+Description = 全新推出AlphaPic超级看图2021（v7.0.0.63）
+DescriptionHtml1 = 电脑看图软件，就用AlphaPic！<a href="http://alphapic.web3v.com/alphapic/">http://alphapic.web3v.com/alphapic/</a>
+Description1 = 电脑看图软件，就用AlphaPic！http://alphapic.web3v.com/alphapic/
+DescriptionHtml2 = 如果您有疑问或建议，欢迎<a href="http://shang.qq.com/wpa/qunwpa?idkey=71d2a7e5fe099368da21188d47222c2f4d287354eb4fb3ffd09c6f41c25804aa">加入AlphaPic官方QQ群</a>进行反馈 。
+Description2 = 如果您有疑问或建议，欢迎加入AlphaPic官方QQ群进行反馈 。
+Description3 = 请点击“下一步”，立即下载并安装AlphaPic新版本。
+FeatureHtml = <b>0.1%-6400%超精准无级缩放，率先支持1亿像素图片缩放，进入“超级看图”新时代。</b>
+Feature = 0.1%-6400%超精准无级缩放，率先支持1亿像素图片缩放，进入“超级看图”新时代。
+Feature1 = 支持对最新1.08亿像素的超大照片（支持JPG和HEIF等多种格式）最多64倍放大。
+Feature2 = 点击缩放按钮自动选中缩放比例输入框，便于键盘直接输入缩放百分比，还可用上、下方向键微调图片缩放比例。
+Feature3 = 超精准无级缩放：图片可缩小至0.1%，缩放比例可以保留小数点后多达15位。
+Feature4 = 超精控变速缩放：支持触控板/触摸屏多点触控和滚轮滚动幅度精控缩放，缩放既平滑又顺畅，更贴近实际缩放需求。
+FeatureHtml5 = <b>大幅优化程序性能。</b>
+Feature5 = 大幅优化程序性能。
+FeatureHtml6 = <b>图片旋转</b>
+Feature6 = 图片旋转
+Feature7 = 新增图像旋转快捷键（CTRL+L或CTRL+R），在不破坏图片文件的情况下，快速预览*图片旋转后的效果。
+Feature8 = 右击旋转按钮，可向右旋转图片。
+FeatureHtml9 = <i>*如需对图片进行裁剪、旋转并保存，可从菜单中选择“用其他应用打开”进行编辑。</i>	
+Feature9 = *如需对图片进行裁剪、旋转并保存，可从菜单中选择“用其他应用打开”进行编辑。	
+FeatureHtml10 = <b>图片信息</b>
+Feature10 = 图片信息
+Feature11 = 优化图片信息窗口的显示方式，避免遮挡其他程序的窗口。
+Feature12 = 图片信息窗口保持打开时，在图片切换时不再自动激活该窗口，便于连续切换图片。
+Feature13 = 修复raw图片无法查看exif信息的问题。
+FeatureHtml14 = <b>新增查看图片文件属性的功能（Alt+Enter）。</b>
+Feature14 = 新增查看图片文件属性的功能（Alt+Enter）。
+FeatureHtml15 = <b>新增对Cur光标格式的支持。</b>
+Feature15 = 新增对Cur光标格式的支持。
+FeatureHtml16 = <b>使用自动灰度校正和抗锯齿技术优化图像显示质量。</b>
+Feature16 = 使用自动灰度校正和抗锯齿技术优化图像显示质量。
+FeatureHtml17 = <b>可以点击界面最左侧和最右侧来切换图片。</b>
+Feature17 = 可以点击界面最左侧和最右侧来切换图片。
+FeatureHtml18 = <b>兼容Windows11系统。</b>
+Feature18 = 兼容Windows11系统。
+Enhancement = “长图浏览视图（包括横向、纵向）”暂时取消，该功能将在以后的版本中再恢复。
+Enhancement1 = 修复在显示比例自定义框激活时输入1会导致缩放比例变为100%等问题。
+Enhancement2 = 修复输入自定义显示比例后回车时发出默认音的问题。
+Enhancement3 = 优化滚轮缩放效果。
+Enhancement4 = 还有多处问题修复和细节优化，全方位提升看图体验。
+Enhancement5 = 修复Windows XP某些环境可能无法正常打开图片的问题。未来，由于会采用新技术，AlphaPic后续版本将不再支持XP系统。
+Enhancement6 = 升级图像引擎。
+Enhancement7 = 修复某些快捷键的响应不正确的问题。
+Enhancement8 = 修复打印RAW格式照片时颜色偏红的问题。
+BugFixHtml = 提示：如遇下载失败，也可以通过AlphaPic菜单按钮->帮助->检查更新 进行重试，或者<a href="https://wwa.lanzoui.com/iyHrwsrv3qf">点击此处下载安装包</a> 。
+BugFix = 提示：如遇下载失败，也可以通过AlphaPic菜单按钮->帮助->检查更新 进行重试，或者点击此处下载安装包 。
