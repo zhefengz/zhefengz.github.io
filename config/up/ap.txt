@@ -1,0 +1,18 @@
+;aiu;
+
+[Update]
+Name = 全新推出AlphaPic超级看图2021（7.0.3.66 正式版）2023/2/5
+ProductVersion = 7.0.3.66
+URL = https://i11.lanzoug.com/02052300100345631bb/2023/02/05/3dad8e940c0462dd83570f68cc30a13e.exe?st=3L4v63jRfHjzZfF1oukCTg&e=1675611628&b=AhFdMVQkA25RZQUDUmsFYlY0CHoHNlN7AmIOLVFgAjYFeQlsBn5YOA_c_c&fi=100345631&pid=180-162-27-135&up=2&mp=0&co=1
+URL1 = https://sankoo.lanzouo.com/ikqUW0msga5c
+Size = 25618072
+MD5 = b3783f2864c4c77695ca25d55cc8d35c
+ServerFileName = AlphaPic.exe
+Flags = NoCache
+RegistryKey = HKUD\Software\赛科先锋\AlphaPic超级看图\Version
+Version = 7.0.3.66
+DescriptionHtml = <b>提示：自动更新暂时不可用，请<a href="https://sankoo.lanzouo.com/ikqUW0msga5c">点击此处下载新版安装包</a> ，然后点击“取消”退出本更新程序。</b>
+Description = 提示：自动更新暂时不可用，请点击此处下载新版安装包 ，然后点击“取消”退出本更新程序。
+DescriptionHtml1 = 如果您有疑问或建议，欢迎<a href="http://shang.qq.com/wpa/qunwpa?idkey=71d2a7e5fe099368da21188d47222c2f4d287354eb4fb3ffd09c6f41c25804aa">加入AlphaPic官方QQ群</a>进行反馈 。
+Description1 = 如果您有疑问或建议，欢迎加入AlphaPic官方QQ群进行反馈 。
+Enhancement = 软件运行环境要求：由于Microsoft .Net Framework版本要求更新至4.5.2及以上版本，从此版本开始不再支持Windows XP系统。XP系统用户，请勿下载更新。
